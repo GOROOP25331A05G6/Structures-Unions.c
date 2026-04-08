@@ -37,6 +37,6 @@ int main() {
         printf("Name = %s\n", s[i].name);
         printf("Marks = %.2f\n", s[i].marks);
     }
-
+printf("\n25331A05G6\n");
     return 0;
 }
