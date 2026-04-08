@@ -35,6 +35,6 @@ int main() {
     printf("Name = %s\n", s.name);
     printf("City = %s\n", s.addr.city);
     printf("Pincode = %d\n", s.addr.pincode);
-
+printf("\n25331A05G6\n");
     return 0;
 }
